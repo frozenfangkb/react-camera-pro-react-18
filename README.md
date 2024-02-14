@@ -31,16 +31,16 @@ Note: WebRTC is only supported on secure connections. So you need to serve it fr
 ## Installation
 
 ```
-npm install --save react-camera-pro
+npm install --save react-camera-pro-react-18
 ```
 
 ## Demo
 
-https://purple-technology.github.io/react-camera-pro/
+https://github.com/frozenfangkb/react-camera-pro-react-18
 
 ## Example
 
-https://github.com/purple-technology/react-camera-pro/blob/master/example/src/App.tsx
+https://github.com/frozenfangkb/react-camera-pro-react-18/blob/master/example/src/App.tsx
 
 ## Usage
 
@@ -87,6 +87,7 @@ errorMessages: {
 ```
 
 Default:
+
 ```
   {
     noCameraAccessible: 'No camera device accessible. Please connect your camera or try a different browser.',
